@@ -1,4 +1,4 @@
-# CNN on CIFAR-10 with Filter Visualization and Animated Predictions
+# CNN on CIFAR-10 
 
 This project implements a deep Convolutional Neural Network (CNN) from scratch using PyTorch/Keras for the CIFAR-10 dataset. It includes:
 
